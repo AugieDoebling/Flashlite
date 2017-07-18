@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/release/classes-a83d48afd651eb1efec487fb68f6619951b6b6e1.jar" />
+    </item>
+    <item
+        jar="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/release/classes-a1ca05c478988e01cd2199b1e009e6129ed3ec7c.jar" />
+    </item>
+    <item
+        jar="/Users/augiedoebling/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/release/support-annotations-22.0.0-e647e975080e61e9fc29bd6c0fe3fcabce78ecc7.jar" />
+    </item>
+    <item
+        jar="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/release/classes-37eba396d91e5f2304ab1a484c419174961e8752.jar" />
+    </item>
+    <item
+        jar="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/release/classes-564a65bb54b224eb882f77e2d5ffbf5f5489ef52.jar" />
+    </item>
+    <item
+        jar="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/release/internal_impl-22.0.0-f9d2ab6b3edb6b6029305d56cd5dd42c8d941d9c.jar" />
+    </item>
+    <item
+        jar="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/augiedoebling/AndroidStudioProjects/FirstApp/app/build/intermediates/pre-dexed/release/classes-b5001c21f8e4730b54903c8e79f4ff9e4a3b87ef.jar" />
+    </item>
+
+</items>

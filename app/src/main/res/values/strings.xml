@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashlite</string>
+    <string name="action_settings">Settings</string>
+    <string name="switchdis">Switch used to turn on/off the flashlight.</string>
+    <string name="strobedis">Button used to turn on/off the strobe feature of the flashlight.</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_party">Party</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- for google ads testing -->
+    <string name="banner_ad_unit_id">ca-app-pub-5401552637721906/7534894270</string>
+
+</resources>
